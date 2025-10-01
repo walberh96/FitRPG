@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "c0224Pgjbvc=",
+  "dgSpecHash": "544U2E5Jtfc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRPG\\FitRPG.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRpg\\FitRpg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Willwitcher\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\Willwitcher\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
   "logs": []
 }

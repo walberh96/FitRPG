@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRPG\\FitRPG.csproj": {}
+    "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRpg\\FitRpg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRPG\\FitRPG.csproj": {
+    "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRpg\\FitRpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRPG\\FitRPG.csproj",
-        "projectName": "FitRPG",
-        "projectPath": "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRPG\\FitRPG.csproj",
+        "projectUniqueName": "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRpg\\FitRpg.csproj",
+        "projectName": "FitRpg",
+        "projectPath": "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRpg\\FitRpg.csproj",
         "packagesPath": "C:\\Users\\Willwitcher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRPG\\obj\\",
+        "outputPath": "C:\\Users\\Willwitcher\\OneDrive\\Projects\\FitRPG\\FitRpg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Willwitcher\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
