@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FitRpg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e11e37805f5ddf2513066088c7539916d20ce33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16cbe7cecca50d8a5d0300bcb7c49eae502d1e26")]
 [assembly: System.Reflection.AssemblyProductAttribute("FitRpg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FitRpg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
