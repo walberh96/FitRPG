@@ -11,7 +11,6 @@ FitRPG is a fitness-focused role-playing game experience that turns workouts int
 - **Backend:** ASP.NET Core for APIs, authentication, and game logic services.
 - **Frontend (mobile & web):** React Native for the phone app and the web app.
 - **Wearable:** Native Android implementation via Android Studio for the Samsung Watch 7 companion app.
-- **Database:** PostgreSQL for user accounts, profiles, and gameplay data.
 
 ## Current Status
 The codebase currently contains a starter ASP.NET Core project (see `FitRPG/Program.cs`). The full game systems, data models, and UI are planned but not yet implemented.
@@ -21,7 +20,7 @@ The codebase currently contains a starter ASP.NET Core project (see `FitRPG/Prog
 - **Clients:**
   - React Native app for mobile and web clients consuming the API.
   - Native Android client for Samsung Watch 7 as the wearable companion.
-- **Data & Integrations:** PostgreSQL for persistence, plus fitness data ingestion endpoints designed to integrate with device sensors and external fitness platforms.
+- **Data & Integrations:** Fitness data ingestion endpoints designed to integrate with device sensors and external fitness platforms.
 
 ## Roadmap (initial)
 1. Define core domain models (player, stats, quests, inventory, workouts).
